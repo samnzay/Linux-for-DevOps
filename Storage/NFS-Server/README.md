@@ -1,5 +1,7 @@
 # How to Set Up an NFS Server on Ubuntu (Complete with AutoFS!)
 
+![NFS Server](/Storage/NFS-Server/architecture/NFS%20Server.png)
+
 ## NFS-Server
 Create Base Directory/Parent directory for all of our NFS shares. What we are going to do is to create some sub directories within that parent directory and each of those subdirectories will be NFS shares in and of themselves.
 
